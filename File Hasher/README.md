@@ -1,0 +1,1 @@
+This script takes a folder path and an output destination, then recursively walks through the folder, computes a SHA-256 hash for every file found, and saves each file's name, full path, and hash to a CSV file.
