@@ -1,10 +1,10 @@
 LIVE RESPONSE THUMB DRIVE
-Ubuntu Linux 64-bit
+
 
 REQUIREMENTS
 ------------
-- Must be run on Ubuntu Linux 64-bit
 - Must be run as root for full data collection
+- All the files must be in a removable dirve with ext3 or ext4 filesystem in order to maintain the integrity of the device.
 
 NOTE: This script was developed and tested on Kali Linux. If any
 commands produce errors on your system, open the response script
